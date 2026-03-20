@@ -1,16 +1,45 @@
-# artisan_prototype
+# Artisan Prototype
 
-A new Flutter project.
+A Flutter-based application designed to showcase artisan products through AI-generated storytelling, language translation, and sustainability insights. The application aims to enhance user engagement by combining technology with cultural and environmental awareness.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- AI-generated stories for artisan products  
+- Multi-language translation support (Hindi, Telugu, Tamil, Bengali)  
+- Voice interaction simulation for artisan profiles  
+- Eco impact insights and product comparisons  
+- Structured interface for exploring artisan content  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Project Overview
+
+This application focuses on presenting artisan products in a more engaging and informative manner. Instead of traditional product listings, it generates contextual stories, provides translations for accessibility, and highlights environmental impact.
+
+The goal is to bridge the gap between traditional craftsmanship and modern digital platforms while improving user understanding and engagement.
+
+---
+
+## Tech Stack
+
+- Frontend: Flutter (Dart)  
+- AI Integration: Gemini API  
+- Version Control: Git and GitHub  
+- Platform: Android  
+
+---
+
+## Screenshots
+
+Add relevant screenshots here to demonstrate application features and interface.
+
+---
+
+## How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/varshini-6996/artisan_prototype.git
+
